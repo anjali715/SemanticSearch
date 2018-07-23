@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: neo4j_populated_concept_graph
+Implementation-Version: 0.1.0
+Built-By: anjali.moharir
+Implementation-Vendor-Id: com.stackroute
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://maven.apache.org/neo4j-concept
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
